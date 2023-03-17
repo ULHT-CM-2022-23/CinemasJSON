@@ -2,6 +2,64 @@
    "cinemas":[
       {
          "cinema_id":90849,
+         "cinema_name":"Fórum Montijo",
+         "cinema_provider":"Cinemas NOS",
+         "latitude":38.6949792,
+         "longitude":-8.942057,
+         "address": "Praça da Liberdade, 32",
+         "postcode": "2870-461",
+         "county": "Montijo",
+         "ratings":[
+            {
+               "category":"limpeza de salas",
+               "score":4
+            },
+            {
+               "category":"qualidade de som",
+               "score":1
+            },
+            {
+               "category":"conforto",
+               "score":10
+            },
+            {
+               "category":"qualidade de imagem",
+               "score":9
+            }
+         ],
+         "opening_hours":{
+            "Monday":{
+               "open":"14:00",
+               "close":"23:00"
+            },
+            "Tuesday":{
+               "open":"14:00",
+               "close":"23:00"
+            },
+            "Wednesday":{
+               "open":"14:00",
+               "close":"23:00"
+            },
+            "Thursday":{
+               "open":"14:00",
+               "close":"23:00"
+            },
+            "Friday":{
+               "open":"14:00",
+               "close":"23:00"
+            },
+            "Saturday":{
+               "open":"14:00",
+               "close":"23:00"
+            },
+            "Sunday":{
+               "open":"14:00",
+               "close":"23:00"
+            }
+         }
+      },
+      {
+         "cinema_id":90849,
          "cinema_name":"Cinema Ideal",
          "cinema_provider":"Cinemateca Portuguesa",
          "logo_url":"https://mir-s3-cdn-cf.behance.net/projects/404/d6ad44144476641.Y3JvcCw2MzYsNDk3LDkyLDY3.png",
